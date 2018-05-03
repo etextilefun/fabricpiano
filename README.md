@@ -1,5 +1,6 @@
 # Fabric Piano
-![](https://raw.github.com/wiki/etextilefun/fabricpiano/piano.jpg)
+![Piano](piano.jpg)
+
 How it works - [YouTube](https://youtu.be/3YOkoYgqCoc)
 
 ## Requirement
