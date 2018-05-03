@@ -15,7 +15,8 @@ How it works - [YouTube](https://youtu.be/3YOkoYgqCoc)
 4. Copy code.py in the root directory.
 
 ## Setup
-Connect alligator clips as following.
+Connect CircuitPlayground Express with alligator clips as following.
+![Connection](connection.jpg)
 
 ## Licence
 
