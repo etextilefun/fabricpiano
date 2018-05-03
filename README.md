@@ -1,10 +1,10 @@
 # Fabric Piano
-https://raw.github.com/wiki/etextilefun/fabricpiano/piano.jpg
+![](https://raw.github.com/wiki/etextilefun/fabricpiano/piano.jpg)
 How it works - [YouTube](https://youtu.be/3YOkoYgqCoc)
 
 ## Requirement
 - [Adafruit CircuitPlayground Express](https://www.adafruit.com/product/3333)
-- [CircuitPython](https://learn.adafruit.com/assets/47217)
+- [CircuitPython](https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-quickstart)
 - [CircuitPython Libraries](https://learn.adafruit.com/welcome-to-circuitpython/circuitpython-libraries)
 
 ## Install
