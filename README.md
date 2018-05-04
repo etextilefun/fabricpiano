@@ -18,6 +18,16 @@ How it works - [YouTube](https://youtu.be/3YOkoYgqCoc)
 Connect CircuitPlayground Express with alligator clips as following.
 ![Connection](connection.jpg)
 
+## How to play
+Let's play the piano!
+
+CircuitPlayground Express ligths its onboard LEDs and make a sound when to push it.
+
+![Play](play.jpg)
+
+[Mu Editor](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor) is very convenient for edditing and debugging the code. 
+You can see all sensor values with this serial monitor easily. 
+
 ## Licence
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
